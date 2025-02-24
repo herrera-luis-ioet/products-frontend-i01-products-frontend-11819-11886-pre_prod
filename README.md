@@ -1,1 +1,3 @@
-# products-frontend-i01-products-frontend-11819-11886-pre_prod
+# Project Repository
+
+This is the initial README file for the project.
